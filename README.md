@@ -1,6 +1,6 @@
 # Super_Store_Sales_Analysis
-A Power BI dashboard to analyze a super stores sales and forecasting
-Sales Analysis:
+A Power BI dashboard to analyze a super stores sales and forecasting\
+Sales Analysis:\
 ![image](https://github.com/shubham0730/Super_Store_Sales_Analysis/assets/71088263/7045c2f0-e277-41bc-a407-84f461433613)
 
 Sales forecasting:
